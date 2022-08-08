@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f67704d-ea2e-4deb-9582-3265143f480f" name="Changes" comment="i">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical1.kt" afterDir="false" />
+    <list default="true" id="1f67704d-ea2e-4deb-9582-3265143f480f" name="Changes" comment="started hello world uv59">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Practical3Kt">
     <configuration name="Practical1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical1Kt" />
       <module name="MADPractical1_21012022059" />
@@ -46,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practical3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical3Kt" />
+      <module name="MADPractical1_21012022059" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Practical3Kt" />
         <item itemvalue="Kotlin.Practical1Kt" />
       </list>
     </recent_temporary>
@@ -68,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659932523829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="started hello world uv59">
+      <created>1659933400210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659933400210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="i" />
-    <option name="LAST_COMMIT_MESSAGE" value="i" />
+    <MESSAGE value="started hello world uv59" />
+    <option name="LAST_COMMIT_MESSAGE" value="started hello world uv59" />
   </component>
 </project>
